@@ -11,7 +11,9 @@
 Tous apprenants chez BeCode entre septembre 2017 et mars 2018.
 La version définitive a été rendue le 02/10/2017
 
-[Intervenant : Jean-Charles Vanderlinden, fondateur de CentralApp](https://www.centralapp.com/)  
+
+## Qui et où ?
+[Jean-Charles Vanderlinden, fondateur de CentralApp](https://www.centralapp.com/)  
 
 Á [BeCentral](https://www.facebook.com/becentral/), le 27/09/2017 et 28/09/2017  
 
