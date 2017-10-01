@@ -2,7 +2,7 @@
 
 ![alt text](https://media.giphy.com/media/5NPhdqmyRxn8I/giphy.gif "Bisous !")
 
-Résumé de la conférence fournit par
+## Résumé de la conférence fournit par
 * [igurbuz](https://github.com/igurbuz/)  
 * [amandinemeeus](https://github.com/amandinemeeus/)  
 * [marieThielens](https://github.com/marieThielens/)  
@@ -17,4 +17,4 @@ La version définitive a été rendue le 02/10/2017
 
 ## Sujet
 
-Un diagnostique exhaustif du challenge que pose l'existence numérique d'une entreprise de nos jours et les outils et solutions que propose google aux web developpeurs pour y répondre.
+Un diagnostic exhaustif du challenge que pose l'existence numérique d'une entreprise de nos jours et les outils et solutions que propose Google aux web developpeurs pour y répondre.
