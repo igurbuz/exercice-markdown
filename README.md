@@ -8,6 +8,13 @@ Résumé de la conférence fournit par
 * [marieThielens](https://github.com/marieThielens/)  
 * [SergeMaikere](https://github.com/SergeMaikere/)  
 
-[Intervenant : Jean-Charles Vanderlinden, fondateur de CentralApp](https://www.digimedia.be/News/fr/19967/la-startup-belge-centralapp-leve-500000.html ou https://www.centralapp.com/fr>)  
+Tous apprenants chez BeCode entre septembre 2017 et mars 2018.
+La version définitive a été rendue le 02/10/2017
+
+[Intervenant : Jean-Charles Vanderlinden, fondateur de CentralApp](https://www.centralapp.com/)  
 
 Á [BeCentral](https://www.facebook.com/becentral/), le 27/09/2017 et 28/09/2017  
+
+## Sujet
+
+Un diagnostique exhaustif du challenge que pose l'existence numérique d'une entreprise de nos jours et les outils et solutions que propose google aux web developpeurs pour y répondre.
